@@ -15,6 +15,7 @@ category: 生活
 
 
 但登录之后只能看到从奥克兰到库克岛的航班被划掉了，但看不到更新信息，修改航班的按钮也是灰色的点不了，只能拨打人工客服。
+
 ![](/images/2022-08-01-cook-islands-1/airnz-app-1.jpeg)
 ![](/images/2022-08-01-cook-islands-1/airnz-app-2.jpeg)
 
